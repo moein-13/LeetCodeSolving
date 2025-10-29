@@ -1,16 +1,17 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
 
-        buy_price = prices[0]
-        profit = 0
+    ## Dynamic programming solution
+        komDam = prices[0]
+        motLabh = 0 
 
-        for price in prices[ 1 : ]:
-            if buy_price > price :
-                buy_price = price
+        for sell in prices:
 
-            profit = max(profit , price - buy_price)
+            Labh = sell - komDam
+            motLabh = max(motLabh , Labh)
+            komDam = min(komDam , sell)
 
-        return profit
+        return motLabh
 
             
        
