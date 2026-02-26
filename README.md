@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/moein-13/LeetCodeSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/moein-13/LeetCodeSolving/tree/master/0392-is-subsequence) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/moein-13/LeetCodeSolving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/moein-13/LeetCodeSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/moein-13/LeetCodeSolving/tree/master/0392-is-subsequence) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/moein-13/LeetCodeSolving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
